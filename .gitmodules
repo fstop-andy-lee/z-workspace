@@ -1,0 +1,8 @@
+[submodule "z-parent"]
+	path = z-parent
+	url = https://github.com/fstop-andy-lee/z-parent.git
+	branch = main
+[submodule "z-module-1"]
+	path = z-module-1
+	url = https://github.com/fstop-andy-lee/z-module-1.git
+	branch = main
