@@ -6,3 +6,7 @@
 	path = z-module-1
 	url = https://github.com/fstop-andy-lee/z-module-1.git
 	branch = main
+[submodule "z-module-2"]
+	path = z-module-2
+	url = https://github.com/fstop-andy-lee/z-module-2.git
+	branch = main
